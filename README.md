@@ -1,7 +1,6 @@
 # Official Repo for Stable-Hair
 <a href='https://icoz69.github.io/facestudio'><img src='https://img.shields.io/badge/Project-Page-green'></a> 
 <a href='https://arxiv.org/abs/2312.02663'><img src='https://img.shields.io/badge/Technique-Report-red'></a> 
-[![GitHub](https://img.shields.io/github/stars/Xiaojiu-z/Stable-Hair?style=social)](https://github.com/Xiaojiu-z/Stable-Hair/)
 
 **Stable-Hair: Real-World Hair Transfer via Diffusion Model**
 
