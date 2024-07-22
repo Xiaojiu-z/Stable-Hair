@@ -1,6 +1,6 @@
 # Official Repo for Stable-Hair
-<a href=''><img src='https://img.shields.io/badge/Project-Page-green'></a> 
-<a href=''><img src='https://img.shields.io/badge/Technique-Report-red'></a> 
+<a href='https://xiaojiu-z.github.io/Stable-Hair.github.io/'><img src='https://img.shields.io/badge/Project-Page-green'></a> 
+<a href='https://arxiv.org/pdf/2407.14078'><img src='https://img.shields.io/badge/Technique-Report-red'></a> 
 
 **Stable-Hair: Real-World Hair Transfer via Diffusion Model**
 
@@ -21,5 +21,14 @@ Coming soon.
 Coming soon.
 
 ## Cite
-
-To be updated.
+```
+@misc{zhang2024stablehairrealworldhairtransfer,
+      title={Stable-Hair: Real-World Hair Transfer via Diffusion Model}, 
+      author={Yuxuan Zhang and Qing Zhang and Yiren Song and Jiaming Liu},
+      year={2024},
+      eprint={2407.14078},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.14078}, 
+}
+```
