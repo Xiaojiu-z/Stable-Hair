@@ -13,9 +13,9 @@ Current hair transfer methods struggle to handle diverse and intricate hairstyle
 <img src='assets/method.jpg'>
 
 ## Todo List
-1. - [x] Stage1 (Standardize to Bald Stage) inference code 
+1. - [x] Stage1 inference code 
 2. - [x] Stage1 pre-trained weights 
-3. - [x] Stage2 (Hair Transfer Stage) inference code
+3. - [x] Stage2 inference code
 4. - [x] Stage2 pre-trained weights
 5. - [x] Training code
 
