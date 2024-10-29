@@ -19,6 +19,29 @@ Current hair transfer methods struggle to handle diverse and intricate hairstyle
 4. - [x] Stage2 pre-trained weights
 5. - [x] Training code
 
+## Getting Started
+### Environment Setup
+Our code is built on the [diffusers](https://github.com/huggingface/diffusers/) version of Stable Diffusion, In our experiments, we use model version v1-5. If you have a diffusers version of [controlnet](https://huggingface.co/docs/diffusers/using-diffusers/controlnet) configured, you can use this repository directly.
+```shell
+git clone https://github.com/Xiaojiu-z/Stable-Hair.git
+cd Stable-Hair
+```
+
+### Pretrained Models
+[Google Drive](https://drive.google.com/drive/folders/1E-8Udfw8S8IorCWhBgS4FajIbqlrWRbQ?usp=drive_link). 
+Download them and save to the directory `models/stage1` and `models/stage2`. 
+
+### Inference
+```python
+python infer_full.py
+```
+
+### Gradio demo
+We provide a simple gr demo for more flexible use.
+```python
+python gradio_demo_full.py
+```
+
 ## Cite
 ```
 @misc{zhang2024stablehairrealworldhairtransfer,
