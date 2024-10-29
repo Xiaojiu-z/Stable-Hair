@@ -9,8 +9,8 @@ bald_converter_path: "./models/stage1/pytorch_model.bin"
 fusion_blocks: "full"
 
 inference_kwargs:
-  source_image: "./test_imgs/ID/1.png"
-  reference_image: "./test_imgs/Ref/1.png"
+  source_image: "./test_imgs/ID/0.jpg"
+  reference_image: "./test_imgs/Ref/0.jpg"
   random_seed: -1
   step: 30
   guidance_scale: 1.5
@@ -19,4 +19,4 @@ inference_kwargs:
   size: 512
 
 output_path: "./output"
-save_name: "1.jpg"
+save_name: "0.jpg"
