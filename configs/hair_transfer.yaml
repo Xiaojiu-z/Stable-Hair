@@ -1,0 +1,22 @@
+pretrained_model_path: "runwayml/stable-diffusion-v1-5"  # your sd path
+
+pretrained_folder: "./models/stage2"
+encoder_path: "pytorch_model.bin"
+adapter_path: "pytorch_model_1.bin"
+controlnet_path: "pytorch_model_2.bin"
+bald_converter_path: "./models/stage1/pytorch_model.bin"
+
+fusion_blocks: "full"
+
+inference_kwargs:
+  source_image: "./test_imgs/ID/1.png"
+  reference_image: "./test_imgs/Ref/1.png"
+  random_seed: -1
+  step: 30
+  guidance_scale: 1.5
+  controlnet_conditioning_scale: 1
+  scale: 1
+  size: 512
+
+output_path: "./output"
+save_name: "1.jpg"
