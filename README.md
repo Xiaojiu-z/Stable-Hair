@@ -41,6 +41,9 @@ We provide a simple gr demo for more flexible use.
 ```python
 python gradio_demo_full.py
 ```
+### Limitation
+The Results are influenced by the effect of the first stage, if the bald converter does not go well, the effect of hair transfer is not good.
+<img src='assets/limitation.jpg'>
 
 ## Cite
 ```
