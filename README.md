@@ -43,7 +43,7 @@ python gradio_demo_full.py
 ```
 ### Limitation
 The Results are influenced by the effect of the first stage, if the bald converter does not go well, the effect of hair transfer is not good.
-By the way, this released model only trained on a small dataset (6k images for stage1, 2w images for stage2) and all the face images are from FFHQ datasets which means they were croped and aligned. From my practise, using video and full body datasets to finetune this model is a good way to improve, due to some restrictions the improved model will not be publicly avaliable. If you want to expand the boarder of this model, feel free to contact me.
+By the way, this released model only trained on a small dataset (6k images for stage1, 2w images for stage2) and all the face images are from FFHQ datasets which means they were cropped and aligned. From my practice, using video and full body datasets to finetune this model is a good way to improve, due to some restrictions the improved model will not be publicly available. If you want to expand the border of this model, feel free to contact me.
 
 ## Cite
 ```
