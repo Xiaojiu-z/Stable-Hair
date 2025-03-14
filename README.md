@@ -4,7 +4,7 @@
 
 **Stable-Hair: Real-World Hair Transfer via Diffusion Model**
 
-*Yuxuan Zhang, Qing Zhang, Yiren Song, Jiaming Liu*
+*Yuxuan Zhang, Qing Zhang, [Jichao Zhang](https://zhangqianhui.github.io/), Yiren Song, Hao Tang, Jiaming Liu*
 
 <img src='assets/teaser_.jpg'>
 
